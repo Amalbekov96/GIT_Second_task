@@ -8,3 +8,5 @@
 8 Folder1 line 
 9 Folder1 line 
 10 line
+Not the same 
+Not the same
